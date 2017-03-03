@@ -1,14 +1,14 @@
 ---
 responses:
-  "That language is hurtful to people I care about.": 
+  "That tweet was hurtful to people I care about. You should try to use different language.": 
     - '#uglygirlsarenotallowed'  
     - '#slut'
     - '#ihatefemaleswho'
-    - '#mensrights'
     - '#fatbitch'
     - '#bitches'
-  "test":
-    - '#uglygirlsarenotallowed'
+#     - '#mensrights'
+  "Thanks for being an awesome feminist!":
+    - '#fembottest'
 
 blacklist_text: "@fembotbot i'm sorry for the language I used. it was hurtful to others, and i'm ashamed. i'm educating myself on being a better human being."
 
